@@ -6,7 +6,7 @@
 
 ****************  
 
-Sou analista de suporte e atuo na área da TI desde 2017(Mesmo ano que comecei a estudar na área ;)) sou estudante de Engenharia de software na Univates. 
+Sou analista de suporte e atuo na área da TI desde 2017(Mesmo ano que comecei a estudar na área) sou estudante de Engenharia de software na Univates. 
 
 Apesar de não atuar na área de desenvolvimento, amo programar :heart:, e estou focada em estudar javascript, node e react. Além disso, estou estudando também java, que é a linguagem utilizada na empresa onde trabalho.  
 
