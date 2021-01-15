@@ -2,6 +2,16 @@
 
 ![cami_profile](https://komarev.com/ghpvc/?username=camisbrussi&color=blue&style=flat)
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camisbrussi&hide=html&layout=compact&theme=buefy" 
+    </tr>   
+</table>
+</center>  
+
+
+
 ### Olá, bem vindo! 👋
 
 ****************  
