@@ -22,7 +22,7 @@ Apesar de não atuar na área de desenvolvimento, amo programar :heart:, e estou
 
 Adoro olhar seriado e filmes (e discutir sobre), adoro também cozinhar, não vivo sem uma boa conversa e principalmente não vivo sem café. 
 
-Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o Morpheu (Sim, adoro super heróis e mitologia grega)
+Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o Morfeu (Sim, adoro super heróis e mitologia grega)
 
 
 ****************  
