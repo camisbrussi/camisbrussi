@@ -16,9 +16,9 @@
 
 ****************  
 
-Sou analista de suporte e atuo na área da TI desde 2017(Mesmo ano que comecei a estudar na área) sou estudante de Engenharia de software na Univates. 
+Sou desenvolvedora de software e atuo na área da TI desde 2017(Mesmo ano que comecei a estudar na área) sou estudante de Engenharia de software na Univates. 
 
-Apesar de não atuar na área de desenvolvimento, amo programar :heart:, e estou focada em estudar javascript, node e react. Além disso, estou estudando também java, que é a linguagem utilizada na empresa onde trabalho.  
+Amo programar :heart:! Na empresa em que trabalho, desenvolvo em Java e estou  estudando também javascript, typescript node e react.
 
 Adoro olhar seriado e filmes (e discutir sobre), adoro também cozinhar, não vivo sem uma boa conversa e principalmente não vivo sem café. 
 
@@ -27,7 +27,7 @@ Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o
 
 ****************  
 
-Analista de suporte pleno na empresa Interact Solutions 
+Desenvolvedora de Software na empresa Interact Solutions 
 
 **************** 
 
