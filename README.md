@@ -27,7 +27,7 @@ Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o
 
 ****************  
 
-Desenvolvedora de Software na empresa Interact Solutions 
+Software Engineer | Combate à Fraude
 
 **************** 
 
