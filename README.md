@@ -18,7 +18,7 @@
 
 Sou desenvolvedora de software e atuo na área da TI desde 2017(Mesmo ano que comecei a estudar na área) sou estudante de Engenharia de software na Univates. 
 
-Amo programar :heart:! Na empresa em que trabalho, desenvolvo em Java e estou  estudando também javascript, typescript node e react.
+Amo programar :heart:! Desenvolvo em javascript, typescript node e react.
 
 Adoro olhar seriado e filmes (e discutir sobre), adoro também cozinhar, não vivo sem uma boa conversa e principalmente não vivo sem café. 
 
