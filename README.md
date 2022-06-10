@@ -11,6 +11,14 @@ Trabalho com: </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/> 
   
+Tenho conhecimento também em: </br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/> 
+ 
+
+Estou estudando:
+React Native
+  
     
 Adoro olhar séries e filmes (e discutir sobre), adoro também cozinhar, não vivo sem uma boa conversa e principalmente não vivo sem café. 
 
@@ -42,9 +50,14 @@ I work with: </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 
-I already worked with: </br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  
+I am also aware of </br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/> 
+ 
+
+
+I am studying:
+React Native
   
  I love watching series and movies (and discussing them), I don't give up a good daily reading, I also like to cook, I can't live without a good conversation e especially I can't live without coffee. 
   
