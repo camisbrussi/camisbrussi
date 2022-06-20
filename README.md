@@ -1,4 +1,6 @@
-  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="21" width="30"> ### Olá, bem vindo! 👋
+  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="21" width="30"> 
+
+## Olá, bem vindo! 👋
 
 
 Me chamo Camila Sbrussi e sou desenvolvedora de software. Trabalho na área da TI desde 2017, mesmo ano que comecei a estudar engenharia de software.
@@ -35,6 +37,7 @@ Onde me encontrar?
 <a href="https://www.instagram.com/camisbrussi">![instagram](https://user-images.githubusercontent.com/40186019/96396205-08328b80-119d-11eb-9f44-012b07cfe8aa.png)</img></a> [Instagram](https://www.instagram.com/camisbrussi)
 
 ---------------------------------------------------------------------------------------------
+  <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="21" width="30"> 
 
 ### Hello, welcome! 👋
     
