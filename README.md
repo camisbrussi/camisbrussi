@@ -1,4 +1,4 @@
-  ### Olá, bem vindo! 👋
+  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="21" width="30"> ### Olá, bem vindo! 👋
 
 
 Me chamo Camila Sbrussi e sou desenvolvedora de software. Trabalho na área da TI desde 2017, mesmo ano que comecei a estudar engenharia de software.
