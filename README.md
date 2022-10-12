@@ -3,7 +3,7 @@
 ## Olá, bem vindo! 👋
 
 
-Me chamo Camila Sbrussi e sou desenvolvedora de software. Trabalho na área da TI desde 2017, mesmo ano que comecei a estudar engenharia de software.
+Me chamo Camila Sbrussi e sou Engenharia de Software formada pela Univates. Trabalho na área da TI desde 2017.
 
 Amo programar :heart:! 
     
@@ -27,12 +27,12 @@ Adoro olhar séries e filmes (e discutir sobre), adoro também cozinhar, não vi
 Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o Morfeu. 
 
 
-## Software Engineer | Combate à Fraude
+## Software Engineer | Caf.io
 
 
 Onde me encontrar?
 
-<a href="https://www.linkedin.com/in/camila-sbrussi-a7b48516a/">![linkedin-logo (1)](https://user-images.githubusercontent.com/40186019/96396021-80e51800-119c-11eb-8505-b3141e247a3f.png)</img></a> [LinkedIn](https://www.linkedin.com/in/camila-sbrussi-a7b48516a/)
+<a href="https://www.linkedin.com/in/camila-sbrussi-a7b48516a/">![linkedin-logo (1)](https://user-images.githubusercontent.com/40186019/96396021-80e51800-119c-11eb-8505-b3141e247a3f.png)</img></a> [LinkedIn](https://www.linkedin.com/in/camisbrussi/)
 
 <a href="https://www.instagram.com/camisbrussi">![instagram](https://user-images.githubusercontent.com/40186019/96396205-08328b80-119d-11eb-9f44-012b07cfe8aa.png)</img></a> [Instagram](https://www.instagram.com/camisbrussi)
 
@@ -41,7 +41,7 @@ Onde me encontrar?
 
 ### Hello, welcome! 👋
     
-My name is Camila Sbrussi and I am software development. I work in TI area sence 2017, same year I started studying softwafe engineer.
+My name is Camila Sbrussi and I am a Software Engineering graduate from Univates. I have been working in the IT field since 2017
     
 I love programming :heart:!
     
@@ -66,11 +66,11 @@ React Native
   
  I am the mother of two cats, Barry (aka his alter ego Flash) and Morfeu.
      
-## Software Engineer | Combate à Fraude
+## Software Engineer | Caf.io
 
 Where to find me?
 
-<a href="https://www.linkedin.com/in/camila-sbrussi-a7b48516a/">![linkedin-logo (1)](https://user-images.githubusercontent.com/40186019/96396021-80e51800-119c-11eb-8505-b3141e247a3f.png)</img></a> [LinkedIn](https://www.linkedin.com/in/camila-sbrussi-a7b48516a/)
+<a href="https://www.linkedin.com/in/camila-sbrussi-a7b48516a/">![linkedin-logo (1)](https://user-images.githubusercontent.com/40186019/96396021-80e51800-119c-11eb-8505-b3141e247a3f.png)</img></a> [LinkedIn](https://www.linkedin.com/in/camisbrussi/)
 
 <a href="https://www.instagram.com/camisbrussi">![instagram](https://user-images.githubusercontent.com/40186019/96396205-08328b80-119d-11eb-9f44-012b07cfe8aa.png)</img></a> [Instagram](https://www.instagram.com/camisbrussi)
 
