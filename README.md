@@ -1,14 +1,13 @@
-<a href="#portuguese">Versão  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="21" width="30"></a>
-<a href="#english">Version <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="21" width="30"> </a>
+
+<a href="#portuguese"> <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="21" width="30"></a>
+<a href="#english"><img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="21" width="30"> </a>
 
 <div align="center">
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camisbrussi&hide=html&layout=compact&theme=buefy" 
-    </tr>   
-</table>
 
-![cami_profile](https://komarev.com/ghpvc/?username=camisbrussi&color=blue&style=flat)
+     
+  <img height="170rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camisbrussi&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="170rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camisbrussi&layout=compact&langs_count=16&theme=outrun"/>
+</div>
 </div>  
 
 
