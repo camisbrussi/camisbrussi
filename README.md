@@ -18,15 +18,11 @@
 
 ## 🚀 Sobre mim
 
-Me chamo Camila Sbrussi e sou Engenharia de Software formada pela Univates. Trabalho na área da TI desde 2017.
+Olá! Sou engenheira de software formada pela Univates e atuo como desenvolvedora front-end, tendo como minha melhor habilidade a utilização de React. Trabalho principalmente com Javascript, Typescript, React, Node, MongoDb e Mysql, mas também já trabalhei com Java em outras experiências profissionais.
 
-Amo programar :heart:! 
+Sou uma pessoa comunicativa e gosto de compartilhar meu conhecimento, participando de refinamentos técnicos e discutindo ideias. Estou sempre em busca de aprendizado contínuo e novos desafios. Atualmente, estou construindo um aplicativo web com tecnologias como React e Tailwind, além de colaborar com o Product Owner para priorizar tarefas e sugerir novas formas de entrega para alcançar um ótimo MVP.
 
-Adoro olhar séries e filmes (e discutir sobre), adoro também cozinhar, não vivo sem uma boa conversa e principalmente não vivo sem café. 
-
-Sou mãe de dois gatos, o Barry (também conhecido por seu alter ego Flash), e o Morfeu. 
-
-👩‍💻 Trabalho atualmente na caf.io
+Meu objetivo é me especializar ainda mais em front-end e continuar aprendendo, sempre buscando aprimorar minhas habilidades e conhecimentos na área. Além disso, possuo nível intermediário em inglês e estou cursando a língua para aprimorar ainda mais minha comunicação e atuação em um ambiente globalizado.
 
 ## 🛠 Habilidades
 ### 👩‍💻 Trabalho com:  
@@ -53,16 +49,11 @@ React Native
 
 ## 🚀 About me
     
-My name is Camila Sbrussi and I am a Software Engineering graduate from Univates. I have been working in the IT field since 2017
-    
-I love programming :heart:!
+Hi there! I'm a software engineer graduated from Univates and work as a front-end developer, with React being my top skill. I mainly work with Javascript, Typescript, React, Node, MongoDb and Mysql, but have also worked with Java in previous professional experiences.
 
-  
- I love watching series and movies (and discussing them), I don't give up a good daily reading, I also like to cook, I can't live without a good conversation e especially I can't live without coffee. 
-  
- I am the mother of two cats, Barry (aka his alter ego Flash) and Morfeu.
- 
-👩‍💻 Work currently at the caf.io
+I'm a communicative person and enjoy sharing my knowledge, participating in technical refinements and discussing ideas. I'm always seeking continuous learning and new challenges. Currently, I'm building a web application with technologies such as React and Tailwind, as well as collaborating with the Product Owner to prioritize tasks and suggest new delivery methods to achieve an excellent MVP.
+
+My goal is to further specialize in front-end and continue learning, always striving to improve my skills and knowledge in the field. Additionally, I have an intermediate level of English and am taking classes to further enhance my communication and performance in a globalized environment.
  
  ## 🛠 Skills
     
