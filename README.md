@@ -13,7 +13,7 @@
 
 <h1 align="center" id="portuguese"> Olá, bem vindo! 👋 </h1>
 
-
+Conheça o projeto [BEE HEROES](https://github.com/beeheroes), a Bee Heroes é um projeto criado com um propósito, dedicado a causar um impacto positivo no mundo por meio do voluntariado. Nossa missão é capacitar indivíduos e organizações a se unirem e criar um futuro melhor para o nosso planeta. Acreditamos que todos têm o potencial de ser um herói à sua maneira, e nosso projeto pretende oferecer um espaço para que indivíduos e organizações sem fins lucrativos se conectem e colaborem.
 
 
 ## 🚀 Sobre mim
